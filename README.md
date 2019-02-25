@@ -1,1 +1,1 @@
-# tech_stack
+# Third exercise from completeReactNative
